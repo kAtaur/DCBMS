@@ -1,0 +1,67 @@
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\DiagnosticCenterBillManagementSystem.dll.config
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\DiagnosticCenterBillManagementSystem.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\DiagnosticCenterBillManagementSystem.pdb
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Antlr3.Runtime.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\AspNet.ScriptManager.jQuery.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Newtonsoft.Json.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\System.Web.Optimization.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\WebGrease.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\System.Web.Optimization.xml
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Antlr3.Runtime.pdb
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Newtonsoft.Json.xml
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\obj\Debug\DiagnosticCenterBillManagementSystem.csprojResolveAssemblyReference.cache
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\obj\Debug\DiagnosticCenterBillManagementSystem.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\obj\Debug\DiagnosticCenterBillManagementSystem.pdb
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\itextsharp.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\itextsharp.xml
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\DiagnosticCenterBillManagementSystem.dll.config
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\DiagnosticCenterBillManagementSystem.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\DiagnosticCenterBillManagementSystem.pdb
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Antlr3.Runtime.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\AspNet.ScriptManager.jQuery.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\itextsharp.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Newtonsoft.Json.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\System.Web.Optimization.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\WebGrease.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\itextsharp.xml
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\System.Web.Optimization.xml
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Antlr3.Runtime.pdb
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Newtonsoft.Json.xml
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\obj\Debug\DiagnosticCenterBillManagementSystem.dll
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\obj\Debug\DiagnosticCenterBillManagementSystem.pdb
+E:\Sanowar 34\Tutorials\Tutorial DotNet\BDJOBS - DotNet\Project1\Final\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\obj\Debug\DiagnosticCenterBillManagementSystem.csprojResolveAssemblyReference.cache
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\DiagnosticCenterBillManagementSystem.dll.config
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\DiagnosticCenterBillManagementSystem.dll
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\DiagnosticCenterBillManagementSystem.pdb
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Antlr3.Runtime.dll
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\AspNet.ScriptManager.bootstrap.dll
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\AspNet.ScriptManager.jQuery.dll
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.ScriptManager.WebForms.dll
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Newtonsoft.Json.dll
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\System.Web.Optimization.dll
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\WebGrease.dll
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\System.Web.Optimization.xml
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Antlr3.Runtime.pdb
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Newtonsoft.Json.xml
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\obj\Debug\DiagnosticCenterBillManagementSystem.csprojResolveAssemblyReference.cache
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\obj\Debug\DiagnosticCenterBillManagementSystem.dll
+E:\1. Sanowar\PF\BdJobs\Project1\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\obj\Debug\DiagnosticCenterBillManagementSystem.pdb
